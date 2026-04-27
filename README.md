@@ -1,4 +1,4 @@
-### For dependencies run the following
+### Run the following to install dependencies
 
 ``` bash
 pip install numpy matplotlib scipy scikit-image pillow opencv-contrib-python
