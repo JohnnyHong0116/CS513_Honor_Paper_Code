@@ -1,0 +1,8 @@
+Image type: camera
+Blur radius: 2
+Noise sigma: 0.005
+Condition number of A: 3.213704e+04
+Blurred relative error: 0.08104631
+Direct solve relative error: 2.28296052
+TSVD relative error: 0.05582469
+Tikhonov relative error: 0.05037506

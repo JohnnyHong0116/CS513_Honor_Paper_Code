@@ -1,0 +1,9 @@
+Image type: aruco
+ArUco ID: 0
+Blur radius: 2
+Noise sigma: 0.005
+Condition number of A: 3.213704e+04
+Blurred relative error: 0.14241727
+Direct solve relative error: 1.43725731
+TSVD relative error: 0.05682378
+Tikhonov relative error: 0.05457128
